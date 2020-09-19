@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FirstClassTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-19T16:56:50" hostname="192-168-0-168.rdsnet.ro" time="0.023">
+<testsuite name="FirstClassTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-09-19T18:10:39" hostname="192-168-0-168.rdsnet.ro" time="0.381">
   <properties/>
-  <testcase name="get endpoint test()" classname="FirstClassTest" time="0.023"/>
+  <testcase name="receiveAndResend endpoint test()" classname="FirstClassTest" time="0.375"/>
+  <testcase name="get endpoint test()" classname="FirstClassTest" time="0.001"/>
+  <testcase name="post endpoint, odd number test()" classname="FirstClassTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
